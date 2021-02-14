@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-#### The Purpose of this project is to analyse Date using SQL to help facilitate decision making.
+#### The Purpose of this project is to analyse Datas using SQL to help facilitate decision making.
 
 ## Results
 
@@ -14,4 +14,4 @@
 
 ## Summary
 #### - From the results seen in the image (https://github.com/arjunkannawar/Pewlett-Hackard-Analysis/blob/main/Screen%20Shot%202021-02-14%20at%203.23.52%20AM.png), we can see that a significant number of Senior Engineers & Senior Staff will be retiring beacuse of which there is a huge need for additional resources.
-#### - There is a huge number (precisley 1549) of acndidates eligible for the Mentiorship program.
+#### - There is a huge number (precisely 1549) of candidates eligible for the Mentiorship program.
