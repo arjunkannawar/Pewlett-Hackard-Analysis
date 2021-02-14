@@ -6,7 +6,7 @@
 
 ## Results
 
-#### - From the First deliverable, it is clear that a significant number of people are retiring. Amongst all tiltles, Senior Enginners will see a mximum number of people retiring.
+#### - From the First deliverable, it is clear that a significant number of people are retiring. Amongst all tiltles, Senior Enginners will see a maximum number of people retiring.
 #### - From the management group just 2 people will be retiring which is not a worrisome number.
 #### - There are a total of 1549 people eligible for the Mentorship program.
 
