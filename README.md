@@ -13,5 +13,5 @@
 
 
 ## Summary
-#### - From the results seen in the image (), we can see that a significant number of Senior Engineers & Senior Staff will be retiring beacuse of which there is a huge need for additional resources.
+#### - From the results seen in the image (https://github.com/arjunkannawar/Pewlett-Hackard-Analysis/blob/main/Screen%20Shot%202021-02-14%20at%203.23.52%20AM.png), we can see that a significant number of Senior Engineers & Senior Staff will be retiring beacuse of which there is a huge need for additional resources.
 #### - There is a huge number (precisley 1549) of acndidates eligible for the Mentiorship program.
